@@ -6,7 +6,7 @@
 2. Then open with Terminal, install GSAP with ```npm install gsap```
 3. Download the js file into your project
 4. Import it as a normal React component
-5. Passing choses texts as a prop, for example: ```<TypingEffects staticContent='Hellow' dynamicContent='world !' />``` , the string "world !" will be displayed char by char just like someone is typing it 
+5. Passing texts as a prop, for example: ```<TypingEffects staticContent='Hellow' dynamicContent='world !' />``` , the string "world !" will be displayed char by char just like someone is typing it 
 
 # **Customisation**
 ### there are many props:
